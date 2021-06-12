@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>AKBAR MOHAMMAD</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To AKBAR Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-9502535606 ,+91-9980923226</h3>
+			<h3>Contact @ +91-9502535606 ,+91-9059725427</h3>
 		</div>	
 	</div>
 
